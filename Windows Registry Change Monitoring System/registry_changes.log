@@ -1,0 +1,28 @@
+[2026-01-30 23:22:15] Registry Monitoring Started.
+[2026-01-30 23:22:15] Baseline registry snapshot created.
+[2026-01-30 23:26:55] [ALERT] New registry value added in HKCU_Run: New Value #1 = 
+[2026-01-30 23:27:05] [ALERT] New registry value added in HKCU_Run: TestStartup = 
+[2026-01-30 23:27:15] [ALERT] New registry value added in HKCU_Run: TestStartup = 
+[2026-01-30 23:27:25] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:27:35] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:27:45] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:27:55] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:28:05] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:28:15] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:28:25] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:28:35] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:28:45] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:28:55] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:29:05] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:29:15] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:29:25] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:29:35] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:29:45] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:29:55] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:30:05] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:30:15] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:30:25] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:30:35] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:30:45] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:30:55] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe
+[2026-01-30 23:31:05] [ALERT] New registry value added in HKCU_Run: TestStartup = C:\test\dummy.exe

@@ -1,0 +1,17 @@
+{
+    "HKCU_Run": {
+        "OneDrive": "\"C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe\" /background",
+        "MicrosoftEdgeAutoLaunch_6B770857D9B81538FA9524CBB2D560C5": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start",
+        "Spotify": "C:\\Users\\DELL\\AppData\\Roaming\\Spotify\\Spotify.exe --autostart --minimized",
+        "Free Download Manager": "\"C:\\Program Files\\Softdeluxe\\Free Download Manager\\fdm.exe\" --hidden",
+        "Granola": "C:\\Users\\DELL\\AppData\\Local\\Programs\\granola\\Granola.exe"
+    },
+    "HKLM_Run": {
+        "SecurityHealth": "%windir%\\system32\\SecurityHealthSystray.exe",
+        "RTHDVCPL": "\"C:\\Program Files\\Realtek\\Audio\\HDA\\RtkNGUI64.exe\" -s",
+        "RtHDVBg_MAXX6": "\"C:\\Program Files\\Realtek\\Audio\\HDA\\RAVBg64.exe\" /MAXX6",
+        "RtHDVBg_PushButton": "\"C:\\Program Files\\Realtek\\Audio\\HDA\\RAVBg64.exe\" /IM",
+        "WavesSvc": "\"C:\\Program Files\\Waves\\MaxxAudio\\WavesSvc64.exe\""
+    },
+    "Defender_Disable": {}
+}
