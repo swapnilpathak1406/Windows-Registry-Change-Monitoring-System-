@@ -3,7 +3,7 @@ import json
 import time
 import os
 from datetime import datetime
-
+#this is the main file for the code
 BASELINE_FILE = "baseline.json"
 LOG_FILE = "registry_changes.log"
 SCAN_INTERVAL = 10  # seconds
